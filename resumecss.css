@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+header
+{background-color: #5ce1f4;
+  font-family: "copperplate", fantasy;
+  font-size: 2.5em;
+}
+aside {
+  width: 20%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+}
+footer
+{background-color: #5ce1f4;
+  font-family: "copperplate", fantasy;
+  font-size: 1em;
+}
